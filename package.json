@@ -8,10 +8,10 @@
     "postconfigurar": "npx knex seed:run"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.4",
+    "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
-    "express": "~4.16.1",
+    "express": "~4.22.1",
     "http-errors": "~1.6.3",
     "knex": "^0.21.6",
     "morgan": "~1.10.1",
